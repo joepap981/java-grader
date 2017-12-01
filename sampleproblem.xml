@@ -1,6 +1,6 @@
 <problem>
   <text>
-    <p>Write a java class that returns the double of the input</p>
+    <p>Write a java class "Program" with a method "Puzzle" that returns the double of the input</p>
   </text>
   <coderesponse queuename="java-queue">
     <textbox mode="java" tabsize="4"/>
